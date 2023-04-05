@@ -1,3 +1,5 @@
+//Teste de localização de alguns caracteres especiais. Não exaustivo.
+
 #include <stdio.h>
 
 int main()

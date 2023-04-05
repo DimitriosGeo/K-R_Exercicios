@@ -1,3 +1,5 @@
+//Usando 'while' para conversão de Celsius para Fahrenheit. Chato (Boring).
+
 #include <stdio.h>
 
 int main()

@@ -1,3 +1,5 @@
+// Conversão de Fahrenheit para Celsius.Tudo "hard coded".
+
 #include <stdio.h>
 
 int main()
